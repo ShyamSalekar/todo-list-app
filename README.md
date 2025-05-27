@@ -21,8 +21,7 @@ A simple and responsive To-Do List web app built using **HTML**, **CSS**, and **
 
 ## 🚀 Live Demo
 
-[🔗 View it on GitHub Pages]
-https://shyamsalekar.github.io/todo-list-app/
+[🔗 View it on GitHub Pages](https://shyamsalekar.github.io/todo-list-app/)
 
 ## 🧑‍💻 Created by
 Shyam Jayram Salekar – during internship at Elevate Labs
